@@ -2,9 +2,7 @@
 
 
 몽고디비
-https://docs.mongodb.org/manual/?
-
-_ga=1.150681204.395530453.1399525776
+https://docs.mongodb.org/manual/?_ga=1.150681204.395530453.1399525776
 
 하둡
 
