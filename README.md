@@ -54,6 +54,8 @@ Apache에서 진행한 Open 소스기반 빅데이터 분석 시스템
 http://getbootstrap.com/2.3.2/base-css.html
 
 #하이버네이트
+ORM(Object-Relational Mapping) 프레임워크의 하나이며 객체지향 프로그램밍과 관계형 데이터베이스의 
+차이로 인해 발생하는 제약사항을 해결하는 해결책이다.
 
 #w스쿨
 http://www.w3schools.com/
