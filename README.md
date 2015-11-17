@@ -5,10 +5,8 @@ github사용법 : https://nolboo.github.io/blog/2013/10/06/github-for-beginner/
 https://docs.mongodb.org/manual/?_ga=1.150681204.395530453.1399525776
 참고 : http://bcho.tistory.com/742
 
-
 @몽고디비란?
 몽고DB는 데이터 객체들이 컬렉션 내부에서 독립된 문서로 저장되는, 문서 모델을 기반으로 하는 NoSQL 데이터베이스다.
-
 @특징
 확장성이 좋고 입출력 성능이 우수
 비정형 데이터와 더불어 다양한 데이터를 수용
@@ -22,7 +20,9 @@ Apache에서 진행한 Open 소스기반 빅데이터 분석 시스템
 
 #스프링
 자바 플랫폼을 위한 오픈소스 애플리케이션 프레임워크
+
 @특징
+
 -경량 컨테이너로서 자바 객체를 직접 관리
 -POJO(Plain Old Java Object) 방식의 프레임워크
 -제어 반전(IoC : Inversion of Control)을 지원
